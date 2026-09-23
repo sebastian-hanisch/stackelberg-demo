@@ -1,5 +1,7 @@
 # 🥇 Stackelberg – wer sich zuerst festlegt, lenkt das Ergebnis
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-stackelberg-demo.streamlit.app/)**
+
 Sechstes Stück der **Spieltheorie-&-Mechanism-Design-Linie** der "Konzepte"-Reihe im Portfolio von
 [Sebastian Hanisch](https://sebastianhanisch.net) – Operations Research und Machine Learning. Nachfolger von
 [korreliert-demo](https://sebastianhanisch-korreliert-demo.streamlit.app/): dort lenkte ein Vermittler durch Empfehlungen, hier durch **Festlegung**. Die Bindung an den Erstzug und volle Information der
